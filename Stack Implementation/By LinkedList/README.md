@@ -5,12 +5,12 @@ LinkedList를 사용한 Stack 구현입니다.
 
 StackByLinkedList 클래스를 Generic class로 정의하였습니다.
 
-구현 메소드 : T push(), T pop(), T peek(), int count(), bool isEmpty(), void clear()
+구현 메소드 : void push(), T pop(), T peek(), int count(), bool isEmpty(), void clear()
 
 
 기본적인 Stack 기능들을 구현하였습니다.
 
-T push() : Stack에 값을 추가하는 기능으로 LinkedList의 AddFirst() 메소드를 사용하여 추가해주었습         
+void push() : Stack에 값을 추가하는 기능으로 LinkedList의 AddFirst() 메소드를 사용하여 추가해주었습         
            니다.
 
 T pop() : try-catch를 사용하여 스택이 비어있는데 호출 되었을 시의 발생할 NullReferenceException                   
