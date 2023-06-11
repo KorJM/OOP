@@ -1,0 +1,10 @@
+C:\Users\qh\Desktop\OOP-minjo\체중관리프로그램\체중관리프로그램\bin\Debug\체중관리프로그램.exe.config
+C:\Users\qh\Desktop\OOP-minjo\체중관리프로그램\체중관리프로그램\bin\Debug\체중관리프로그램.exe
+C:\Users\qh\Desktop\OOP-minjo\체중관리프로그램\체중관리프로그램\bin\Debug\체중관리프로그램.pdb
+C:\Users\qh\Desktop\OOP-minjo\체중관리프로그램\체중관리프로그램\obj\Debug\재고관리.csprojAssemblyReference.cache
+C:\Users\qh\Desktop\OOP-minjo\체중관리프로그램\체중관리프로그램\obj\Debug\재고관리.Form1.resources
+C:\Users\qh\Desktop\OOP-minjo\체중관리프로그램\체중관리프로그램\obj\Debug\체중관리프로그램.Properties.Resources.resources
+C:\Users\qh\Desktop\OOP-minjo\체중관리프로그램\체중관리프로그램\obj\Debug\재고관리.csproj.GenerateResource.cache
+C:\Users\qh\Desktop\OOP-minjo\체중관리프로그램\체중관리프로그램\obj\Debug\재고관리.csproj.CoreCompileInputs.cache
+C:\Users\qh\Desktop\OOP-minjo\체중관리프로그램\체중관리프로그램\obj\Debug\체중관리프로그램.exe
+C:\Users\qh\Desktop\OOP-minjo\체중관리프로그램\체중관리프로그램\obj\Debug\체중관리프로그램.pdb
